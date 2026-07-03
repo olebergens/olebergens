@@ -8,23 +8,17 @@
 
 ## ./about
 
----
-
 I'm a Master's student in **Business Informatics** with an interest in Enterprise Architecture, IT strategy and practical software engineering.
 
 I like working on the bridge between business and technology: understanding complex system landscapes, structuring information and building small tools that make architecture work more repeatable and useful.
 
 ## ./work-style
 
----
-
 I prefer clear structures, pragmatic solutions and tools that reduce manual work instead of adding more process overhead.
 
 I enjoy ASCII aesthetics, terminal-like interfaces and technical layouts with a bit of edge, as long as they stay readable and useful.
 
 ## ./contact
-
----
 
 I'm always open to conversations about Enterprise Architecture, Business Informatics, Python automation and practical ways to improve architecture workflows.
 
