@@ -22,12 +22,14 @@ I enjoy ASCII aesthetics, terminal-like interfaces and technical layouts with a 
 
 I'm always open to conversations about Enterprise Architecture, Business Informatics, Python automation and practical ways to improve architecture workflows.
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/olebergens">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-olebergens-0f172a?style=flat-square&logo=github&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/olebergens/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ole%20Bergens-0a66c2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=olebergens&color=0e7490&style=flat-square&label=Profile+Views" />
 </p>
